@@ -1,7 +1,7 @@
-# Setup Tailwind CSS
+# Upgrade Tailwind CSS
 
 ## Reference Video
-[https://youtu.be/msiWrtLW7ws](https://youtu.be/msiWrtLW7ws)
+[https://youtu.be/fjG8_ao0j4s](https://youtu.be/fjG8_ao0j4s)
 
 ## Learn more
 
